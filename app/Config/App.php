@@ -23,7 +23,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost/ta/public/';
+    public $baseURL = 'https://wikgung.github.io/wikgung.git.io/';
 
     /**
      * --------------------------------------------------------------------------

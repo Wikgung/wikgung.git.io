@@ -1,0 +1,9 @@
+tambahkan virtual tour di alur.php 
+gambar bisa di klik dan di zoom, penataan tampilan di hp
+perlu tambahan fitur untuk user , penambahan informasi
+perlu penambahan larangan ✔dan tata cara memasuki pura ✔
+peletakan logo di form login dan register✔
+penambahan tata busana ke pura di bagian home ✔
+peletakan tulisan sejarah di tengah
+penambahan tombol ganti sampul
+pada tabel kebudayaan bertambah value judul , pada view kebudayaanharus di rubah
